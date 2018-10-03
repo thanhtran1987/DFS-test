@@ -1,0 +1,20 @@
+export const job = {
+  title: 'job title',
+  description: 'description',
+  address: {
+    owner_id: 275200,
+    owner_type: 'Client',
+    type: 'Addresses::Physical',
+    address1: '10 Pitt Street',
+    address2: '',
+    city: 'Redfern',
+    state: 'New South Wales',
+    postcode: '2016',
+    active: true,
+    updated_at: '2017-12-05T23:12:27.779Z',
+    created_at: '2017-12-05T23:12:27.752Z',
+  },
+  priority: 1,
+  job_status_id: 1020,
+  client_id: '275200',
+};
